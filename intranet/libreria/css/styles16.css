@@ -1,0 +1,107 @@
+
+.contenedor__img__hipervinculos{
+    height:35px; 
+    width:35px;
+}
+.contenedor__fondos{
+    background-color: #FFFFFF; /* F5F7F8 , F9F9F9*/
+}
+#abbr{
+    text-decoration: none;
+}
+.contenedor__panel__informacion {
+    background-color: #ffffff; /* 17A2B8*/
+    border-radius:5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;  
+}
+.contenedor__panel__informacion:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.contenedor__title__informacion{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.contenedor__alert__informacion{
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+#strongs{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+}
+.contenedor__img__informacion{
+    width:100%;
+}
+.contenedor__title_nav{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color:#393E46;
+}   
+.contenedor__nav{
+    background-color: #222831;
+}
+.contenedor__img__nav{
+    height: 85px;
+    width: 85px;
+}
+.contenedor__panel__color{
+    background-color: #393E46;    
+}
+#overflowTest{
+    height: 600px;
+	width: 100%;
+	border: 1px solid #ddd;
+	background: #f1f1f1;
+	overflow-y: scroll;
+}
+.contenedor__pliticas__calidad{
+    background-color: #00ADB5;
+    border-radius: 0px 80px 0px 80px;
+    color:#FFFFFF;
+    box-sizing: content-box;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+.contenedor__historia{ 
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.contenedor__mision__vision{
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.manuales__title{
+    font-family: "Work Sans", sans-serif;
+    text-align: center;
+}
+.container__seccion__manuales{
+   
+}
+.container__manuales__box{
+    font-family: "Montserrat", sans-serif;
+    border-radius: 15px;
+    font-size: 15px;  
+}
+.container__manuales__box:hover{
+    background-color: #00ADB5;
+    color:#f1f1f1;
+    cursor: pointer;
+ 
+}
+
+.img__manuales{
+    height: 100px;
+    width: grab;
+}

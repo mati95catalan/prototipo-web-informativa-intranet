@@ -1,0 +1,44 @@
+.box {
+  transition: box-shadow .3s;
+  width: 130px;
+  height: 230px;
+  margin: 5px;
+  border-radius:15px;
+  border: 5px solid #a86363;
+  background: rgb(255, 255, 255);
+  float: left;
+  border-radius: 15px;
+  border-width: 2px;
+  border-style: solid;
+}
+.box:hover {
+  box-shadow: 0 0 15px rgba(189, 189, 189, 0.61); 
+  
+}
+img{
+  height: 115px; 
+  width: 115px;
+}
+a{
+  text-decoration: none;
+}
+.azul_marino{
+  background-color:#2E2F3C ;
+}
+.acreditado{
+  height: 80px;
+  width: 80px;
+}
+.fondo_gris{
+  background-color: #F6F6F6;
+}
+
+.login-img{
+  height: 150px;
+  width: auto;
+
+}
+.login-bg{
+  background-color:#17A2B8 ;
+}
+
